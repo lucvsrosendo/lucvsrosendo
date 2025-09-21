@@ -1,6 +1,7 @@
 ### Hello, I'm Lucas ✌️
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucvsrosendo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucvsrosendo&hide=contribs,prs)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucvsrosendo&hide_progress=true)
 
