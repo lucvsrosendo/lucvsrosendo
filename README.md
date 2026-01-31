@@ -1,4 +1,4 @@
-### Hello, I'm Lucas ✌️
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucvsrosendo&hide=contribs,prs)
 
